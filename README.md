@@ -1,4 +1,4 @@
-Fullstack E-commerce (complete starter)
+Fullstack E-commerce
 ======================================
 
 This package contains a runnable starter with:
